@@ -289,7 +289,7 @@ Some Mus are friendly and don't attack. Answer: 9
 Lindblum Castle is larger than Alexandria Castle. Answer: 9
 Bobo Bird is a bird that brings you fortune. Answer: 7
  Note: The mouse is actually wrong about that one.
-Lindblum’s Air Cabs operate around the clock. Answer: 11
+LindblumÂ’s Air Cabs operate around the clock. Answer: 11
 Chocobo forest is located between Lindblum and South Gate. Answer: 8
 Theater Ship Prima Vista uses Mist as its source of energy. Answer: 8
 Berkmea Cable Cars have been running for 8 years. Answer: 8
@@ -749,8 +749,8 @@ Mini game: The Auction house
 
 Buyer:     Location:     Key item:          Final offer:
 Scholar    Synthesist    Doga's Artifact    10000 gil
-Noble      Cafe          Une’s Mirror       15000
-Red Mage   Cafe          Griffin’s Heart    10000
+Noble      Cafe          UneÂ’s Mirror       15000
+Red Mage   Cafe          GriffinÂ’s Heart    10000
                      and Rat Tail           25000
 
 +++
@@ -800,7 +800,7 @@ HP/MP: 2,296/3,649
 Gil/AP:   0/0
 Steal: Bone Wrist, Mythril Fork
 Weak: Ice
-Abilities: Devil’s Kiss, Blizzara, String, Night, Escape
+Abilities: DevilÂ’s Kiss, Blizzara, String, Night, Escape
 
 Tip: Devil's Kiss poisons. Antibody is useful.
 Note: You switch back to your other party after this, so you might want to leave some of your new equipment available for them. This battle doesn't give any AP anyway.
@@ -2969,7 +2969,7 @@ Appendix: Chocograph treasures
 4: upgrade to Reef chocobo
 5: 9 Phoenix Pinions, 5 Phoenix Downs, 12 Peridot, 1 Diamond Gloves
 6: 5 Echo Screens, 7 Hi-Potions, 3 Tents, 1 Theater Ship card
-7: 8 Gysahl Greens, 5 Ethers, 7 Hi-Potions, 1 Dragon’s Claws
+7: 8 Gysahl Greens, 5 Ethers, 7 Hi-Potions, 1 DragonÂ’s Claws
 8: 37 Potions, 6 Magic Tags, 1 Shield Armor, 1 Gaia Gear
 9: 6 Softs, 4 Ethers, 1 Feather Boots, 1 N-Kai Armlet
 10: 8 Potions, 4 Phoenix Downs, 3 Ethers, 1 Magician Robe
@@ -2978,7 +2978,7 @@ Appendix: Chocograph treasures
 13: 12 Phoenix Downs, 14 Ores, 1 Kaiser Knuckles, 1 Iron Man card
 14: 7 Ethers, 2 Elixir, 10 Wing Edge, 1 High Mage Staff
 15: upgrade to Ocean chocobo
-16: 17 Ores, 5 Ethers, 14 Opals, 1 Demon’s Mail
+16: 17 Ores, 5 Ethers, 14 Opals, 1 DemonÂ’s Mail
 17: 15 Phoenix Pinions, 1 White Robe, 1 Diamond, 1 Masamune card
 18: 27 Ores, 1 Light Robe, 1 Whale Whisker, 1 Alexander card
 19: 11 Peridot, 9 Opals, 15 Sapphires, 19 Topaz
@@ -2998,10 +2998,10 @@ Mountain chocobo's treasures
 Crack: 41 Lapis Lazulis, 1 Rosetta Ring, 1 Protect Ring, 1 Airship Card
 Foam: 50 Potions, 25 Hi-Potions, 9 Ether, 7 Elixir
 Ocean chocobo's treasures
-Crack: 1 Maiden Prayer, 1 Dragon’s Hair, 1 Gauntlets, 1 Odin Card
+Crack: 1 Maiden Prayer, 1 DragonÂ’s Hair, 1 Gauntlets, 1 Odin Card
 Foam: 10 Remedies, 1 Black Robe, 1 Protect Ring, 1 Blue Narciss Card
 Sky chocobo's treasures
-Crack: 19 Eye Drops, 1 Madain’s Ring, 1 Genji Helmet, 1 Hilda Garde 1 card
+Crack: 19 Eye Drops, 1 MadainÂ’s Ring, 1 Genji Helmet, 1 Hilda Garde 1 card
 Foam: 9 Ores, 15 Topaz, 1 Tiger Racket, 1 Red Rose card
 Fat chocobo's treasures (disk 4)
 10 Aquamarines, 1 Ultima Weapon, 1 Maximillian, 1 Invincible Card
